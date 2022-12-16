@@ -1,0 +1,107 @@
+.top-container{
+    background-color: #FAEAB1;
+    margin: 0;
+    position: relative;
+    padding-top: 100px;
+    margin-bottom: 25px;
+}
+
+
+.bottom-cloud{
+    position: absolute;
+    left: 500px;
+}
+
+.top-cloud{
+    position: absolute;
+    right: 500px;
+    top: 60px;
+}
+
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1{
+    margin: 50px auto 0 auto;
+    font-family: 'Chivo Mono', monospace;
+    font-size: 5.625rem;
+    color: #C58940;
+}
+
+h2{
+    font-family: 'Roboto Slab', serif;
+    font-weight: normal;
+    font-size: 2.5rem;
+    color: #C58940;
+}
+
+h3{
+    font-family: 'Roboto Slab', serif;
+    color: #C58940;
+    font-size: 1.8rem;
+    font-weight: normal;
+}
+
+.img-prog{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.img-violin{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+p{
+    font-size: 1.3rem;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 50px auto 50px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.bottom-container{
+    background-color: #FAEAB1;
+    margin: 50px 0 0 0;
+    padding: 50px;
+    line-height: 3;
+    color: #C58940;
+}
+
+.footer-link{
+    color: #C58940;
+    font-size: 1.5rem;
+    text-decoration: none;
+    margin-left: 20px;
+}
+
+.p-cop{
+    margin: 0;
+}
+
+.contact-me{
+    line-height: 2;
+}
+
+.btn {
+    font-family: 'Roboto Slab', serif;
+    color: #d8c8ae;
+    font-size: 25px;
+    background: #C58940;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #E5BA73;
+    color: #C58940;
+    text-decoration: none;
+  }
